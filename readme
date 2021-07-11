@@ -4,7 +4,7 @@ aprés vous devez aller sur "http://localhost/phpmyadmin/"
 
 et créer une base de donnée avec le nom "mini_projet_db"
 
-aprés vous devez importer le fichier "mini_projet_db.sql" depuis ce dossier
+aprés vous devez importer le fichier "mini_projet_db.sql" depuis le dossier "base de données"
 
 N'oubliez pas d'utiliser les informations suivantes pour se connecter en tant qu'Admin:
 
