@@ -1,0 +1,27 @@
+
+.navbar{
+    padding-bottom: 0px;
+}
+.nav-link{
+    color: white;
+}
+h3{
+    color: white;
+}
+.wrapper{
+    display: flex ;
+    transition:all 0.3% ;
+
+}
+#sidebar{
+    min-width: 250px ;
+    max-width: 250px ;
+    min-height: 570px;
+    background: #212529 ;
+    color: #fff;
+}
+#sidebar ul li a:hover{  
+color: brown;
+background: chartreuse;
+
+}
